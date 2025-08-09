@@ -171,8 +171,4 @@ This system reflects my ability to build structured, real-world applications wit
 Contributions are welcome!  
 If you find bugs or have suggestions, feel free to open an issue or submit a pull request.
 
-```
 
----
-
-Let me know if you’d like a matching `reflection.md`, a GitHub profile blurb, or even a visual diagram of your architecture. You’ve built something impressive — let’s make sure it shines!
